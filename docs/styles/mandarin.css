@@ -1,0 +1,474 @@
+/**
+ * Mandarin Publication Stylesheet
+ * ================================
+ * Presentatie Architect - ontwerp-stylesheet
+ * 
+ * Branding:
+ * - Primary color: #e55039 (top bar)
+ * - Single font family: 'Segoe UI', system-ui, sans-serif
+ * - Clean, professional, accessible design
+ * 
+ * WCAG 2.1 AA compliant
+ * Mobile-first responsive design
+ */
+
+/* ============================================================
+   1. DESIGN TOKENS
+   ============================================================ */
+
+:root {
+  /* Colors */
+  --mandarin-primary: #e55039;
+  --mandarin-primary-dark: #c23616;
+  --mandarin-primary-light: #ff6348;
+  
+  --mandarin-text: #2c3e50;
+  --mandarin-text-light: #546e7a;
+  --mandarin-background: #ffffff;
+  --mandarin-background-alt: #f8f9fa;
+  --mandarin-border: #dee2e6;
+  
+  /* Typography */
+  --mandarin-font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --mandarin-font-size-base: 16px;
+  --mandarin-font-size-small: 14px;
+  --mandarin-font-size-large: 18px;
+  --mandarin-line-height: 1.6;
+  
+  /* Spacing */
+  --mandarin-spacing-xs: 0.5rem;
+  --mandarin-spacing-sm: 1rem;
+  --mandarin-spacing-md: 1.5rem;
+  --mandarin-spacing-lg: 2rem;
+  --mandarin-spacing-xl: 3rem;
+  
+  /* Layout */
+  --mandarin-header-height: 64px;
+  --mandarin-max-width: 1200px;
+  --mandarin-border-radius: 4px;
+  
+  /* Shadows */
+  --mandarin-shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.12);
+  --mandarin-shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --mandarin-shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* ============================================================
+   2. BASE STYLES
+   ============================================================ */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: var(--mandarin-font-size-base);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--mandarin-font-family);
+  line-height: var(--mandarin-line-height);
+  color: var(--mandarin-text);
+  background-color: var(--mandarin-background);
+  margin: 0;
+  padding: 0;
+}
+
+/* ============================================================
+   3. MANDARIN TOP BAR
+   ============================================================ */
+
+.md-header,
+header.mandarin-header {
+  background-color: var(--mandarin-primary) !important;
+  color: #ffffff;
+  height: var(--mandarin-header-height);
+  box-shadow: var(--mandarin-shadow-md);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.md-header__title,
+.mandarin-header__title {
+  font-family: var(--mandarin-font-family);
+  font-weight: 600;
+  font-size: 1.25rem;
+  color: #ffffff;
+}
+
+.md-header__button,
+.mandarin-header__button {
+  color: #ffffff;
+}
+
+/* Navigation links in header */
+.md-header__topic,
+.md-tabs,
+.mandarin-header nav a {
+  color: #ffffff;
+  font-family: var(--mandarin-font-family);
+}
+
+.md-tabs__link--active {
+  color: #ffffff;
+  border-bottom: 2px solid #ffffff;
+}
+
+/* ============================================================
+   4. TYPOGRAPHY
+   ============================================================ */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--mandarin-font-family);
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--mandarin-text);
+  margin-top: var(--mandarin-spacing-lg);
+  margin-bottom: var(--mandarin-spacing-sm);
+}
+
+h1 {
+  font-size: 2.25rem;
+  border-bottom: 3px solid var(--mandarin-primary);
+  padding-bottom: var(--mandarin-spacing-xs);
+}
+
+h2 {
+  font-size: 1.875rem;
+  border-bottom: 2px solid var(--mandarin-border);
+  padding-bottom: var(--mandarin-spacing-xs);
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+h5, h6 {
+  font-size: 1rem;
+}
+
+p {
+  margin-bottom: var(--mandarin-spacing-sm);
+  font-family: var(--mandarin-font-family);
+}
+
+a {
+  color: var(--mandarin-primary);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--mandarin-primary-dark);
+  text-decoration: underline;
+}
+
+a:focus {
+  outline: 2px solid var(--mandarin-primary);
+  outline-offset: 2px;
+}
+
+/* ============================================================
+   5. CONTENT LAYOUT
+   ============================================================ */
+
+.md-content,
+main.mandarin-content {
+  font-family: var(--mandarin-font-family);
+  max-width: var(--mandarin-max-width);
+  margin: 0 auto;
+  padding: var(--mandarin-spacing-lg);
+}
+
+article {
+  background-color: var(--mandarin-background);
+  padding: var(--mandarin-spacing-md);
+  margin-bottom: var(--mandarin-spacing-lg);
+}
+
+/* ============================================================
+   6. NAVIGATION & SIDEBAR
+   ============================================================ */
+
+.md-nav,
+nav.mandarin-nav {
+  font-family: var(--mandarin-font-family);
+}
+
+.md-nav__link {
+  color: var(--mandarin-text);
+  font-family: var(--mandarin-font-family);
+}
+
+.md-nav__link:hover,
+.md-nav__link--active {
+  color: var(--mandarin-primary);
+}
+
+.md-sidebar {
+  font-family: var(--mandarin-font-family);
+}
+
+/* ============================================================
+   7. CODE BLOCKS
+   ============================================================ */
+
+code {
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  background-color: var(--mandarin-background-alt);
+  padding: 0.125rem 0.375rem;
+  border-radius: var(--mandarin-border-radius);
+  font-size: 0.9em;
+  color: var(--mandarin-primary-dark);
+}
+
+pre {
+  background-color: var(--mandarin-background-alt);
+  padding: var(--mandarin-spacing-sm);
+  border-radius: var(--mandarin-border-radius);
+  border-left: 4px solid var(--mandarin-primary);
+  overflow-x: auto;
+  margin: var(--mandarin-spacing-sm) 0;
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+  color: var(--mandarin-text);
+}
+
+/* ============================================================
+   8. TABLES
+   ============================================================ */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: var(--mandarin-spacing-md) 0;
+  font-family: var(--mandarin-font-family);
+}
+
+thead {
+  background-color: var(--mandarin-primary);
+  color: #ffffff;
+}
+
+th {
+  padding: var(--mandarin-spacing-sm);
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 2px solid var(--mandarin-primary-dark);
+}
+
+td {
+  padding: var(--mandarin-spacing-sm);
+  border-bottom: 1px solid var(--mandarin-border);
+}
+
+tbody tr:hover {
+  background-color: var(--mandarin-background-alt);
+}
+
+/* ============================================================
+   9. LISTS
+   ============================================================ */
+
+ul, ol {
+  font-family: var(--mandarin-font-family);
+  margin: var(--mandarin-spacing-sm) 0;
+  padding-left: var(--mandarin-spacing-lg);
+}
+
+li {
+  margin-bottom: var(--mandarin-spacing-xs);
+}
+
+/* ============================================================
+   10. ADMONITIONS & CALLOUTS
+   ============================================================ */
+
+.admonition,
+.mandarin-callout {
+  font-family: var(--mandarin-font-family);
+  padding: var(--mandarin-spacing-sm);
+  margin: var(--mandarin-spacing-md) 0;
+  border-radius: var(--mandarin-border-radius);
+  border-left: 4px solid var(--mandarin-primary);
+  background-color: var(--mandarin-background-alt);
+}
+
+.admonition-title,
+.mandarin-callout__title {
+  font-weight: 600;
+  color: var(--mandarin-primary);
+  margin-bottom: var(--mandarin-spacing-xs);
+}
+
+/* ============================================================
+   11. BUTTONS & INTERACTIVE ELEMENTS
+   ============================================================ */
+
+button,
+.md-button,
+.mandarin-button {
+  font-family: var(--mandarin-font-family);
+  background-color: var(--mandarin-primary);
+  color: #ffffff;
+  border: none;
+  padding: var(--mandarin-spacing-xs) var(--mandarin-spacing-md);
+  border-radius: var(--mandarin-border-radius);
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  font-size: var(--mandarin-font-size-base);
+}
+
+button:hover,
+.md-button:hover,
+.mandarin-button:hover {
+  background-color: var(--mandarin-primary-dark);
+}
+
+button:focus,
+.md-button:focus,
+.mandarin-button:focus {
+  outline: 2px solid var(--mandarin-primary);
+  outline-offset: 2px;
+}
+
+/* ============================================================
+   12. RESPONSIVE DESIGN (Mobile-First)
+   ============================================================ */
+
+/* Base styles are mobile-first */
+
+/* Tablet: 768px and up */
+@media (min-width: 768px) {
+  :root {
+    --mandarin-font-size-base: 17px;
+  }
+  
+  .md-content,
+  main.mandarin-content {
+    padding: var(--mandarin-spacing-xl);
+  }
+}
+
+/* Desktop: 1024px and up */
+@media (min-width: 1024px) {
+  :root {
+    --mandarin-font-size-base: 18px;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+  }
+  
+  h2 {
+    font-size: 2rem;
+  }
+}
+
+/* Large Desktop: 1440px and up */
+@media (min-width: 1440px) {
+  :root {
+    --mandarin-max-width: 1400px;
+  }
+}
+
+/* ============================================================
+   13. PRINT STYLES
+   ============================================================ */
+
+@media print {
+  body {
+    font-size: 12pt;
+    line-height: 1.5;
+    color: #000000;
+  }
+  
+  .md-header,
+  .mandarin-header,
+  .md-sidebar,
+  nav,
+  button {
+    display: none !important;
+  }
+  
+  a {
+    color: #000000;
+    text-decoration: underline;
+  }
+  
+  a[href]:after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #666666;
+  }
+  
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+  
+  pre, blockquote, table {
+    page-break-inside: avoid;
+  }
+  
+  thead {
+    display: table-header-group;
+  }
+}
+
+/* ============================================================
+   14. ACCESSIBILITY ENHANCEMENTS
+   ============================================================ */
+
+/* Focus visible for keyboard navigation */
+*:focus-visible {
+  outline: 2px solid var(--mandarin-primary);
+  outline-offset: 2px;
+}
+
+/* Skip to main content link */
+.skip-to-main {
+  position: absolute;
+  left: -9999px;
+  z-index: 999;
+  padding: var(--mandarin-spacing-sm);
+  background-color: var(--mandarin-primary);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.skip-to-main:focus {
+  left: 0;
+  top: 0;
+}
+
+/* Reduced motion for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  :root {
+    --mandarin-border: #000000;
+  }
+  
+  a {
+    text-decoration: underline;
+  }
+}

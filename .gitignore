@@ -42,7 +42,6 @@ build/
 # Editor / IDE
 # ===================================
 # VS Code
-.vscode/
 *.code-workspace
 
 # JetBrains (PyCharm, IntelliJ, etc.)

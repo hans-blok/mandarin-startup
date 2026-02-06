@@ -1,0 +1,14 @@
+# MkDocs Requirements
+# Voor het publiceren van Mandarin Startup documentatie
+
+# Core MkDocs
+mkdocs>=1.5.0
+
+# Material theme voor MkDocs
+mkdocs-material>=9.5.0
+
+# Optionele plugins
+# mkdocs-git-revision-date-plugin>=0.3.2
+
+# Python Markdown extensies (inbegrepen in Material)
+# pymdown-extensions>=10.7
