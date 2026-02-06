@@ -49,6 +49,8 @@ theme:
   font:
     text: "Segoe UI"
     code: "Consolas"
+  logo: "assets/mandarin-logo-m.png"
+  favicon: "assets/mandarin-logo-m.png"
 
 # ------------------------------------------------------------
 # 4. Custom Styling - Mandarin Stylesheet

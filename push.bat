@@ -1,4 +1,4 @@
-@echo off
+ho off
 REM Commit and Push Script
 REM 
 REM Doel: Git add, commit met message, en push naar remote

@@ -98,6 +98,10 @@ $RECYCLE.BIN/
 .coverage
 htmlcov/
 
+# MkDocs
+site/
+.cache/
+
 # Backup files
 *.bak
 *.backup
