@@ -319,13 +319,12 @@ Wij zijn **transparant** over strategische spanningen (zie [Strategische Spannin
 ## Bijlagen
 
 ### A. Strategische Documenten
-- [Fundamentele Hypothese](../hypothese-vormer/hypothese-probleemkader-mandarin.md)
-- [Strategische Intenties](../strategisch-analist/strategische-intenties.md)
-- [Strategische Spanningsvelden](../strategisch-analist/strategische-spanningsvelden.md)
+- [Fundamentele Hypothese](fundamentele-hypothese.md)
+- [Strategische Intenties](strategische-intenties.md)
+- [Strategische Spanningsvelden](strategische-spanningsvelden.md)
 
 ### B. Concepten
-- [Tractie](../concept-curator/concept-tractie.md) — Hoe we succes meten
-- [Strategische Intentie](../concept-curator/concept-strategische-intentie.md) — Onze langetermijnrichting
+Voor conceptdefinities (Tractie, Strategische Intentie) zie de artefacten in de repository.
 
 ### C. Metrics Dashboard (beschikbaar op aanvraag)
 - TLX pilot adoption metrics
