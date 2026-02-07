@@ -2,6 +2,8 @@
 
 **Product Mandarin** is een agent-ecosysteem voor expliciete, governable en traceerbare softwareontwikkeling.
 
+Op de site wordt uitgewerkt de **markt- en investeringsvorming**.
+
 ## Doelstelling
 
 Wij geloven dat ervaren IT-professionals betere, betrouwbaardere software kunnen maken als zij werken met een agent-ecosysteem dat expliciet, governable en traceerbaar is, dan wanneer zij blijven werken met impliciete tooling en ad-hoc automatisering.
@@ -12,8 +14,14 @@ Deze site bevat de strategische documentatie voor Product Mandarin:
 
 ### 📋 Strategie
 
-- **[Fundamentele Hypothese](fundamentele-hypothese.md)** - Het probleemkader en de kernhypothese achter Product Mandarin
-- **[Strategische Intenties](strategische-intenties.md)** - De langetermijnvisie en intenties voor 2026-2031
+- **[Strategische Intenties](publish/strategische-intenties.md)** - De langetermijnvisie en intenties voor 2026-2031
+- **[Fundamentele Hypothese](publish/fundamentele-hypothese.md)** - Het probleemkader en de kernhypothese achter Product Mandarin
+- **[Strategische Spanningsvelden](publish/strategische-spanningsvelden.md)** - Analyse van inherente spanningen tussen hypothese en intenties
+
+### 💰 Investerings-Pitches
+
+- **[Uitgebreide Pitch](publish/investerings-pitch-mandarin.md)** - Complete investerings-propositie met business model, financiële projecties en risico-analyse
+- **[30-Seconden Pitch](publish/30-seconden-pitch-mandarin.md)** - Elevator pitch met varianten voor verschillende settings en soundbites
 
 ## Tijdshorizon
 
@@ -26,4 +34,4 @@ Mandarin Startup is een denkruimte voor strategische ontwikkeling. De documentat
 ---
 
 **Laatst bijgewerkt**: 2026-02-06  
-**Verantwoordelijk**: Mandarin Team
+**Verantwoordelijk**: Maxia Consultancy

@@ -102,7 +102,11 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.smartsymbols
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:
@@ -117,8 +121,13 @@ nav:
   - Home: index.md
   
   - Strategie:
-      - Fundamentele Hypothese: fundamentele-hypothese.md
-      - Strategische Intenties: strategische-intenties.md
+      - Strategische Intenties: publish/strategische-intenties.md
+      - Fundamentele Hypothese: publish/fundamentele-hypothese.md
+      - Strategische Spanningsvelden: publish/strategische-spanningsvelden.md
+  
+  - Investerings-Pitches:
+      - Uitgebreide Pitch: publish/investerings-pitch-mandarin.md
+      - 30-Seconden Pitch: publish/30-seconden-pitch-mandarin.md
 
 # ------------------------------------------------------------
 # 8. Extra Configuratie
@@ -130,7 +139,7 @@ extra:
 # ------------------------------------------------------------
 # 9. Copyright
 # ------------------------------------------------------------
-copyright: "Copyright &copy; 2026 Mandarin Team"
+copyright: "Copyright &copy; 2026 Maxia Consultancy. Alle rechten voorbehouden."
 
 # ------------------------------------------------------------
 # Metadata
