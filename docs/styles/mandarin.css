@@ -30,7 +30,7 @@
   
   /* Typography */
   --mandarin-font-family: 'Segoe UI', system-ui, sans-serif;
-  --mandarin-font-size-base: 16px;
+  --mandarin-font-size-base: 17px;
   --mandarin-font-size-small: 14px;
   --mandarin-font-size-large: 18px;
   --mandarin-line-height: 1.6;
@@ -112,6 +112,10 @@ header.mandarin-header {
   font-family: var(--mandarin-font-family);
 }
 
+.md-tabs__link {
+  color: #ffffff !important;
+}
+
 .md-tabs__link--active {
   color: #ffffff;
   border-bottom: 2px solid #ffffff;
@@ -131,13 +135,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.25rem;
+  font-size: 2.1rem;
   border-bottom: 3px solid var(--mandarin-primary);
   padding-bottom: var(--mandarin-spacing-xs);
 }
 
 h2 {
-  font-size: 1.875rem;
+  font-size: 1.7rem;
   border-bottom: 2px solid var(--mandarin-border);
   padding-bottom: var(--mandarin-spacing-xs);
 }
@@ -351,7 +355,7 @@ button:focus,
 /* Tablet: 768px and up */
 @media (min-width: 768px) {
   :root {
-    --mandarin-font-size-base: 17px;
+    --mandarin-font-size-base: 18px;
   }
   
   .md-content,
@@ -367,11 +371,11 @@ button:focus,
   }
   
   h1 {
-    font-size: 2.5rem;
+    font-size: 2.3rem;
   }
   
   h2 {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 }
 

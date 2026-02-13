@@ -21,7 +21,7 @@ Steeds duidelijker wordt dat de technische uitdagingen van AI minstens worden ge
 
 Agentic AI is slechts de punt van de speer. De komende vijf jaar worden gekenmerkt door de opkomst van een nieuwe generatie AI‑native bedrijfsapplicaties. Anders dan de vorige golf van transactionele systemen, gebouwd op cloud, databases en webinterfaces, zijn deze nieuwe toepassingen aangedreven door data, machine‑learning en autonome agents. Ze ondersteunen de workforce niet alleen: ze wórden er onderdeel van.
 
-In aanloop naar die verschuiving committeert Datakeku zich aan een toekomst waarin ondernemingen op schaal agents kunnen bouwen en besturen. Onze succesfilosofie is eenvoudig:
+In aanloop naar die verschuiving committeert Dataiku zich aan een toekomst waarin ondernemingen op schaal agents kunnen bouwen en besturen. Onze succesfilosofie is eenvoudig:
 
 - **Vendor‑agnostisch.** Vermijd afhankelijkheid van één aanbieder; ondernemingen hebben keuze en flexibiliteit nodig in hun AI‑modellen.
 - **Gecentraliseerde agent‑regie.** Geef elk team tooling om agents te bouwen binnen een geborgd kader, of dat nu via no‑code of geavanceerde scripting is.
@@ -30,7 +30,7 @@ In aanloop naar die verschuiving committeert Datakeku zich aan een toekomst waar
 
 Dit document biedt een strategische routekaart voor organisaties die verder willen gaan dan AI‑hype en op zoek zijn naar schaalbare implementatie. Het is een uitnodiging om de architectuur van agentic AI te verkennen, te leren van vroege adopters en te beginnen met het ontwerpen van de intelligente onderneming van morgen.
 
-Dit voorwoord is geschreven door Florian Douteau, co‑founder en CEO van Datakeku.
+Dit voorwoord is geschreven door Florian Douteau, co‑founder en CEO van Dataiku.
 
 
 ## Potentie van agentic AI
@@ -48,8 +48,6 @@ Mijn extra duiding:
 - Het succes van agenten wordt uiteindelijk bepaald door **organisatie‑capabilities** (procesontwerp, change, datakwaliteit) minstens zo sterk als door het gekozen LLM.
 
 > Samenvatting en duiding op basis van: The Agentic AI Advantage, The Economist Group (2025).
-
-## Hoofdstuk 3
 
 # Hoofdstuk 3 — Mastering Agentic AI at Scale
 
