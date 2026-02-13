@@ -14,14 +14,14 @@ Deze site bevat de strategische documentatie voor Product Mandarin:
 
 ### 📋 Strategie
 
-- **[Strategische Intenties](publish/strategische-intenties.md)** - De langetermijnvisie en intenties voor 2026-2031
-- **[Fundamentele Hypothese](publish/fundamentele-hypothese.md)** - Het probleemkader en de kernhypothese achter Product Mandarin
-- **[Strategische Spanningsvelden](publish/strategische-spanningsvelden.md)** - Analyse van inherente spanningen tussen hypothese en intenties
+- **[Strategische Intenties](publish/onze strategie/strategische-intenties.md)** - De langetermijnvisie en intenties voor 2026-2031
+- **[Fundamentele Hypothese](publish/onze strategie/fundamentele-hypothese.md)** - Het probleemkader en de kernhypothese achter Product Mandarin
+- **[Strategische Spanningsvelden](publish/onze strategie/strategische-spanningsvelden.md)** - Analyse van inherente spanningen tussen hypothese en intenties
 
 ### 💰 Investerings-Pitches
 
-- **[Uitgebreide Pitch](publish/investerings-pitch-mandarin.md)** - Complete investerings-propositie met business model, financiële projecties en risico-analyse
-- **[30-Seconden Pitch](publish/30-seconden-pitch-mandarin.md)** - Elevator pitch met varianten voor verschillende settings en soundbites
+- **[Uitgebreide Pitch](publish/onze strategie/investerings-pitch-mandarin.md)** - Complete investerings-propositie met business model, financiële projecties en risico-analyse
+- **[30-Seconden Pitch](publish/onze strategie/30-seconden-pitch-mandarin.md)** - Elevator pitch met varianten voor verschillende settings en soundbites
 
 ## Tijdshorizon
 

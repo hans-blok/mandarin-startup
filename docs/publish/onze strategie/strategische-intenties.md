@@ -58,7 +58,7 @@ De herijking expliciteert **wat impliciete aannames waren**, scherpt **spannings
   - **Q1 2027**: **Sales Start** — Volledige automatisering (feature → deployment), JIRA-integratie, complete traceability, **commercieel**: sales launch, TLX productie (True Logic uitfasering)
 - **NIET**: Commercialisatie zonder praktijkbewijs, product zonder volwassenheid, verkoop van experimenten, premature scaling.
 
-**Uitgewerkte roadmap**: Voor een overzichtelijke tabel met alle mijlpalen per kwartaal, zie [Mijlpalen.md](../../Mijlpalen.md). Deze roadmap toont de parallelle ontwikkeling van TLX (als testomgeving) en Mandarin (als commercieel product) van Q2 2026 tot Q1 2027, met als hoogtepunt de start van commerciële verkoop in Q1 2027.
+**Uitgewerkte roadmap**: Voor een overzichtelijke tabel met alle mijlpalen per kwartaal, zie [Mijlpalen](../mijlpalen/mijlpalen.md). Deze roadmap toont de parallelle ontwikkeling van TLX (als testomgeving) en Mandarin (als commercieel product) van Q2 2026 tot Q1 2027, met als hoogtepunt de start van commerciële verkoop in Q1 2027.
 
 **Onderliggende aannames**:
 - **TLX-aanname**: TLX biedt voldoende complexiteit (APIs, canonieke modellen, multi-systeem integratie) om Mandarin te testen.
