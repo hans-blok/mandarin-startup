@@ -91,6 +91,24 @@ header.mandarin-header {
   z-index: 1000;
 }
 
+/* Logo in header (desktop + mobiel) */
+.md-header__button.md-logo {
+  display: inline-flex;
+  align-items: center;
+  padding: 0 var(--mandarin-spacing-xs);
+}
+
+.md-header__button.md-logo img {
+  max-height: 32px;
+}
+
+/* Zorg dat het logo ook op small screens zichtbaar blijft */
+@media (max-width: 767.98px) {
+  .md-header__button.md-logo {
+    display: inline-flex !important;
+  }
+}
+
 .md-header__title,
 .mandarin-header__title {
   font-family: var(--mandarin-font-family);
@@ -188,7 +206,7 @@ main.mandarin-content {
   font-family: var(--mandarin-font-family);
   max-width: var(--mandarin-max-width);
   margin: 0 auto;
-  padding: var(--mandarin-spacing-lg);
+  padding: var(--mandarin-spacing-md);
 }
 
 article {
@@ -218,6 +236,13 @@ nav.mandarin-nav {
 
 .md-sidebar {
   font-family: var(--mandarin-font-family);
+}
+
+/* Verminder de afstand tussen sidebar en hoofdcontent op grotere schermen */
+@media (min-width: 1024px) {
+  .md-main__inner {
+    column-gap: var(--mandarin-spacing-md);
+  }
 }
 
 /* ============================================================
@@ -360,7 +385,7 @@ button:focus,
   
   .md-content,
   main.mandarin-content {
-    padding: var(--mandarin-spacing-xl);
+    padding: var(--mandarin-spacing-lg);
   }
 }
 

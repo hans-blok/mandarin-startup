@@ -19,11 +19,12 @@ Wij geloven dat ervaren IT-professionals betere, betrouwbaardere software kunnen
 Mandarin wordt de **governance-native laag** voor traceerbare, uitlegbare softwareontwikkeling en change, complementair aan bestaande AI/dataplatforms. Het product wordt praktijkgetoetst in TLX (2026–2028) en daarna als licentieerbaar B2B SaaS-product uitgerold (vanaf 2028).
 
 **Investeringsvoorstel (indicatief)**  
-Financiering van de practice-first fase (2026–2028) en de overgang naar licentieerbare SaaS (2028–2031), met een totale kapitaalbehoefte in de orde van **€1–3M** in de eerste jaren, gericht op:
+Financiering van de practice-first fase (2026–2028) en de overgang naar licentieerbare SaaS (2028–2031), met een totale kapitaalbehoefte in de orde van **€20–30K** in de eerste jaren, gericht op:
 - productontwikkeling en architectuur;
 - praktijkbewijs in TLX en eerste pilots buiten TLX;
 - voorbereiding op licentieverkoop, support en onboarding.
-
+  
+- _Het investeringsbedrag is laag omdat we met eigen tijd en een student ontwikkelen. De student combineert het met het schrijven van een masterscriptie._
 ---
 
 ## 2. Probleem & Hypothese (Click-formaat)
@@ -283,13 +284,13 @@ Voor investeerders die willen inzetten op **governance-native AI-infrastructuur*
 ## Bijlagen
 
 ### A. Strategische Documenten
-- [Hypothese Probleemkader](../onze strategie/hypothese-probleemkader-mandarin.md)
-- [Strategische Intenties](../onze strategie/strategische-intenties.md)
-- [Strategische Spanningsvelden](../onze strategie/strategische-spanningsvelden.md)
+- [Fundamentele Hypothese](../hypothese-vormer/hypothese-probleemkader-mandarin.md)
+- [Strategische Intenties](../strategisch-analist/strategische-intenties.md)
+- [Strategische Spanningsvelden](../strategisch-analist/strategische-spanningsvelden.md)
 
 ### B. Concepten
-- Tractie — Hoe we succes meten
-- Strategische Intentie — Onze langetermijnrichting
+- [Tractie](../concept-curator/concept-tractie.md) — Hoe we succes meten
+- [Strategische Intentie](../concept-curator/concept-strategische-intentie.md) — Onze langetermijnrichting
 
 ### C. Metrics Dashboard (beschikbaar op aanvraag)
 - TLX pilot adoption metrics
@@ -300,10 +301,10 @@ Voor investeerders die willen inzetten op **governance-native AI-infrastructuur*
 ---
 
 **Contact**:  
-[Naam Founder]  
-[Email]  
-[Telefoon]  
-[LinkedIn]
+Hans Blok  
+johannes.blok@gmail.com  
++31 630451822
+https://www.linkedin.com/in/hans-blok/
 
 **Website**: https://mandarin-startup.github.io/
 

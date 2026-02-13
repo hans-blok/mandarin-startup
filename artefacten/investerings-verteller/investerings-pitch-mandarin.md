@@ -19,10 +19,12 @@ Wij geloven dat ervaren IT-professionals betere, betrouwbaardere software kunnen
 Mandarin wordt de **governance-native laag** voor traceerbare, uitlegbare softwareontwikkeling en change, complementair aan bestaande AI/dataplatforms. Het product wordt praktijkgetoetst in TLX (2026–2028) en daarna als licentieerbaar B2B SaaS-product uitgerold (vanaf 2028).
 
 **Investeringsvoorstel (indicatief)**  
-Financiering van de practice-first fase (2026–2028) en de overgang naar licentieerbare SaaS (2028–2031), met een totale kapitaalbehoefte in de orde van **€1–3M** in de eerste jaren, gericht op:
+Financiering van de practice-first fase (2026–2028) en de overgang naar licentieerbare SaaS (2028–2031), met een totale kapitaalbehoefte in de orde van **€20–30K** in de eerste jaren, gericht op:
 - productontwikkeling en architectuur;
 - praktijkbewijs in TLX en eerste pilots buiten TLX;
 - voorbereiding op licentieverkoop, support en onboarding.
+
+Het investeringsbedrag is laag omdat we met eigen tijd en een student ontwikkelen. De student combineert het met het schrijven van een master-scriptie.
 
 ---
 
@@ -300,11 +302,10 @@ Voor investeerders die willen inzetten op **governance-native AI-infrastructuur*
 ---
 
 **Contact**:  
-[Naam Founder]  
-[Email]  
-[Telefoon]  
-[LinkedIn]
-
+Hans Blok  
+johannes.blok@gmail.com  
++31 630451822
+https://www.linkedin.com/in/hans-blok/
 **Website**: https://mandarin-startup.github.io/
 
 ---
