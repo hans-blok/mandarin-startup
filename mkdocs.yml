@@ -119,15 +119,26 @@ markdown_extensions:
 # ------------------------------------------------------------
 nav:
   - Home: index.md
-  
+
   - Strategie:
-      - Strategische Intenties: publish/strategische-intenties.md
-      - Fundamentele Hypothese: publish/fundamentele-hypothese.md
-      - Strategische Spanningsvelden: publish/strategische-spanningsvelden.md
-  
+    - Overzicht: publish/onze strategie/strategische-intenties.md
+    - Strategische Intenties: publish/onze strategie/strategische-intenties.md
+    - Fundamentele Hypothese: publish/onze strategie/fundamentele-hypothese.md
+    - Strategische Spanningsvelden: publish/onze strategie/strategische-spanningsvelden.md
+
   - Investerings-Pitches:
-      - Uitgebreide Pitch: publish/investerings-pitch-mandarin.md
-      - 30-Seconden Pitch: publish/30-seconden-pitch-mandarin.md
+    - Uitgebreide Pitch: publish/onze strategie/investerings-pitch-mandarin.md
+    - 30-Seconden Pitch: publish/onze strategie/30-seconden-pitch-mandarin.md
+
+  - Mijlpalen:
+    - Roadmap 2026-2027: publish/mijlpalen/mijlpalen.md
+
+  - Bronnen:
+    - The Agentic AI Advantage (artikel): publish/bronnen/The Agentic AI advantage.md
+    - The Agentic AI Advantage (PDF): publish/bronnen/The Agentic AI Advantage.pdf
+
+  - Gespreksverslagen:
+    - 2026-02-07 Edwin - Hans: publish/gespreksverslagen/20260207-EV-HB.md
 
 # ------------------------------------------------------------
 # 8. Extra Configuratie

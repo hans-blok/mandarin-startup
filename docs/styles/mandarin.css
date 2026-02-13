@@ -29,7 +29,7 @@
   --mandarin-border: #dee2e6;
   
   /* Typography */
-  --mandarin-font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --mandarin-font-family: 'Segoe UI', system-ui, sans-serif;
   --mandarin-font-size-base: 16px;
   --mandarin-font-size-small: 14px;
   --mandarin-font-size-large: 18px;
