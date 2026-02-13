@@ -3,7 +3,7 @@
 **Datum**: 2026-02-07  
 **Auteur**: Strategisch Analist  
 **Input**:
-- [Fundamentele Hypothese](fundamentele-hypothese.md)
+- [Hypothese Probleemkader](hypothese-probleemkader-mandarin.md)
 - [Strategische Intenties](strategische-intenties.md)
 
 ---

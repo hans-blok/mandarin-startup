@@ -14,13 +14,14 @@ Deze site bundelt alle strategische documentatie voor Product Mandarin. De hoofd
 
 - **Strategie** – het waarom en waarheen:
 	- [Strategische Intenties](publish/onze strategie/strategische-intenties.md)
-	- [Fundamentele Hypothese](publish/onze strategie/fundamentele-hypothese.md)
+	- [Hypothese (Click-formaat)](publish/onze strategie/click-hypohese.md)
+	- [Hypothese Probleemkader](publish/onze strategie/hypothese-probleemkader-mandarin.md)
 	- [Strategische Spanningsvelden](publish/onze strategie/strategische-spanningsvelden.md)
 	- [De drie vragen in de bestuurskamer](publish/onze strategie/de-drie-vragen-in-de-bestuurskamer.md)
 
 - **Investerings-pitches** – hoe Mandarin als investering wordt gepositioneerd:
-	- [Uitgebreide Pitch](publish/onze strategie/investerings-pitch-mandarin.md)
-	- [30-seconden Pitch](publish/onze strategie/30-seconden-pitch-mandarin.md)
+	- [Uitgebreide Pitch](publish/pitches/investerings-pitch-mandarin.md)
+	- [30-seconden Pitch](publish/pitches/30-seconden-pitch-mandarin.md)
 
 - **Mijlpalen** – de roadmap en belangrijkste momenten op weg naar productvolwassenheid:
 	- [Roadmap 2026–2027](publish/mijlpalen/mijlpalen.md)
