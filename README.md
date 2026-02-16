@@ -30,3 +30,7 @@ Deze repository wordt beheerd volgens de Mandarin workspace governance:
 - Substantiële wijzigingen worden gelogd in de workspace state (indien aanwezig)
 
 -----
+
+## mkdocs renderen
+<!--> kies een poort bijvoorbeeld 8005 -->
+mkdocs serve -a 127.0.0.1:8005
