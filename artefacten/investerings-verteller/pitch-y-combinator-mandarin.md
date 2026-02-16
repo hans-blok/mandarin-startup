@@ -174,9 +174,10 @@ Mandarin is daarmee geen los idee, maar een **natuurlijke extensie van onze eige
 
 - Eerste ronde: **€20–30K** om Fase 1 en de transitie naar Fase 2 te financieren.  
 - Gebruik van middelen:  
-  - ±50% product & engineering (core platform, integraties, security).  
-  - ±30% praktijkimplementaties (TLX, eerste pilots, casestudies).  
-  - ±20% commercieel fundament (documentatie, marketing, sales-/CS-profielen).  
+  - ±50% product & engineering (core platform, integraties, security).  Eigen tijd (geen investering)
+  - ±20% hosting (leverancier is geselecteer, BaseTide)
+  - ±30% commercieel fundament (documentatie, marketing, sales-/CS-profielen). Nog onduidelijk hoe dit op te zetten en wat de kosten zijn.  
+  
 
 **Structuur en volgende stappen:**  
 
