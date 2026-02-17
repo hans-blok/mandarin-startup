@@ -148,13 +148,13 @@ Het gaat over controle, vertrouwen en verantwoordelijkheid.
 ## Bijlagen
 
 ### A. Strategische Documenten
-- [Fundamentele Hypothese](../hypothese-vormer/hypothese-probleemkader-mandarin.md)
-- [Strategische Intenties](../strategisch-analist/strategische-intenties.md)
-- [Strategische Spanningsvelden](../strategisch-analist/strategische-spanningsvelden.md)
+- [Fundamentele Hypothese](../onze strategie/hypothese-probleemkader-mandarin.md)
+- [Strategische Intenties](../onze strategie/strategische-intenties.md)
+- [Strategische Spanningsvelden](../onze strategie/strategische-spanningsvelden.md)
 
 ### B. Concepten
-- [Tractie](../concept-curator/concept-tractie.md) — Hoe we succes meten
-- [Strategische Intentie](../concept-curator/concept-strategische-intentie.md) — Onze langetermijnrichting
+- [Tractie](../../concepten marktvorming en agentic ai/concepten-marktvorming.md#1-tractie) — Hoe we succes meten
+- [Strategische Intentie](../../concepten marktvorming en agentic ai/concepten-marktvorming.md#3-strategische-intentie) — Onze langetermijnrichting
 
 ### C. Metrics Dashboard (beschikbaar op aanvraag)
 - TLX pilot adoption metrics
