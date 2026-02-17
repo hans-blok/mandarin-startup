@@ -4,9 +4,9 @@ Het fragment benoemt **drie fundamentele vragen** die ontstaan zodra agentic AI 
 
 ---
 
-## 1. Who is accountable for an agent’s decisions?  
+## 1. Who is accountable for an agent’s decisions?    
 **Wie is aanspreekbaar als een agent beslist of handelt?**
-
+ 
 ### Wat hiermee wordt bedoeld
 Bij klassieke IT-systemen:
 - maakt een **mens** de beslissingen;

@@ -134,7 +134,9 @@ nav:
   - Investerings-Pitches:
     - Uitgebreide Pitch: publish/pitches/investerings-pitch-mandarin.md
     - 30-Seconden Pitch: publish/pitches/30-seconden-pitch-mandarin.md
-    - Y Combinator Pitch: publish/pitches/pitch-y-combinator-mandarin.md
+    - Y Combinator Pitch: publish/pitches/pitch-y-combinator.md
+    - Visuele Presentatie (Mermaid): publish/visuele-presentatie-mandaryn.md
+    - Pitch Visual (PDF): publish/pitches/pitch_visual.pdf
 
   - Concurrentie:
     - Dataiku als spanningsveld: concurrentie/Dataiku.md
