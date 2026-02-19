@@ -1,5 +1,3 @@
-## 30 seconden pitch
-
 We staan aan het begin van een nieuw tijdperk in software.
 In 2030 wordt de meeste software gebouwd met Agentic AI.
 
