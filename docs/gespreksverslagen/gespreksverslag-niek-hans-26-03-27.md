@@ -1,0 +1,113 @@
+# Verslag — Verkenning thesis Niek en samenwerking met Michael
+
+## 1. Aanleiding
+Niek is gestart met de voorbereiding van zijn thesis en heeft behoefte aan:
+- een geschikt onderwerp;
+- een mentor/supervisor.
+
+Als mogelijke supervisor is **Michael Behrisch** in beeld.
+
+---
+
+## 2. Beeld van Michael
+Volgens Niek onderscheidt Michael zich van andere docenten:
+- vlotter in communicatie;
+- denkt meer vanuit **start-up perspectief**.
+
+Tegelijkertijd laten zijn publicaties een ander profiel zien:
+- sterk **technisch IT-georiënteerd**;
+- focus op concepten zoals **documentatie gekoppeld aan Git commits**.
+
+Wat hij precies wil ontwikkelen is op dit moment nog **onduidelijk**.
+
+---
+
+## 3. Inhoudelijke overlap
+Er wordt een mogelijke overlap gezien met **Entoli**, maar:
+- de mate van overlap is nog **niet scherp vastgesteld**;
+- de exacte richting van Michael’s idee is nog **onvoldoende concreet**.
+
+Hierdoor is nog niet duidelijk:
+- of het complementair is;
+- of het potentieel concurrerend is.
+
+---
+
+## 4. Verwachte samenwerking
+Bij samenwerking wordt verwacht dat:
+- **intellect (kennis, ideeën, architectuur)** gedeeld zal worden.
+
+Dit leidt tot een fundamentele vraag:
+> welk standpunt nemen Hans en Edwin in over **intellectueel eigendom (IP)**?
+
+---
+
+## 5. Scenario’s voor samenwerking (Hans)
+Hans onderscheidt drie mogelijke richtingen:
+
+1. **Niet samenwerken**  
+   - Volledige bescherming van eigen intellect.
+  
+2. **Wel samenwerken, IP delen**  
+   - Gezamenlijke ontwikkeling, maar met gedeeld eigenaarschap.
+  
+3. **Samen een start-up vormen**  
+   - Actieve samenwerking met gedeeld eigendom en **aandeelhouderschap**.
+
+---
+
+## 6. Zorg rondom publicatie en IP
+Hans benoemt een belangrijk spanningsveld:
+- Er wordt momenteel **veel gepubliceerd over AI**;
+- Publicatie kan ertoe leiden dat:
+  - concurrenten ideeën overnemen, maar de kans is klein.
+
+Daartegenover staat:
+- niet publiceren betekent:
+  - volledige controle houden over eigen werk en inzichten;
+  - maar mogelijk minder zichtbaarheid en validatie.
+
+Echter, publicaties bieden ook voordelen:
+- ze genereren **positieve tractie** en aandacht;
+- ze versterken **kredibiliteit en reputatie** in het veld.
+---
+
+## 7. Vervolgstappen
+- Voor een goed besluit is **fysiek overleg met Michael** noodzakelijk.
+- Hans heeft richting Niek aangegeven:
+  - dat Hans en Edwin **uiterlijk 30 april** een standpunt innemen.
+
+---
+
+## 8. Open vragen
+- Wat is precies het idee en de scope van Michael?
+- Hoe groot is de overlap met Entoli?
+- Wat zijn de intenties van Michael (onderzoek vs. startup)?
+- Hoe wordt IP geregeld binnen een thesis-context?
+
+---
+
+## 9. Conclusie
+De situatie bevindt zich in een **verkennende fase** met strategische implicaties.  
+De kernspanning ligt tussen:
+
+- **kennisdeling en versnelling via samenwerking**  
+vs.  
+- **bescherming van intellect en concurrentievoordeel**  
+
+Een gefundeerd standpunt vereist eerst **inhoudelijke helderheid én persoonlijk contact** met Michael.
+
+## 10. Advies - van het LLM op bovenstaande
+
+**Prioriteiten:**
+1. Schedule een gesprek met Michael om zijn concrete visie, scope en intenties te verduidelijken.
+2. Map de overlap met Entoli systematisch uit voordat beslissingen over IP worden genomen.
+3. Definieer interne kaders voor Hans en Edwin vóór 30 april rond IP-beleid en samenwerkingsmodellen.
+
+**Overwegingen:**
+- Publicatie en IP-bescherming zijn niet altijd tegenstrijdig; selectieve openbaarmaking (e.g., via licenties) biedt balans.
+- Bij thesis-context geldt meestal dat universiteit bepaalde rechten heeft; check institutionele richtlijnen.
+- Een early-stage NDA met Michael kan helpen: kennisdeling zonder prematurele vastlegging van eigendom.
+
+**Aanbeveling:**
+Kies scenario 2 of 3 als Michael's werk complementair is aan Entoli en aligned met jullie strategie; kies scenario 1 als conflictpotentieel hoog is.
