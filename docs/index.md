@@ -31,7 +31,7 @@ Deze site bundelt alle strategische documentatie voor Product Mandarin. De hoofd
 	- [The Agentic AI Advantage (PDF)](publish/bronnen/The%20Agentic%20AI%20Advantage.pdf)
 
 - **Gespreksverslagen** – ruwe input uit strategische gesprekken:
-	- [2026-02-07 Edwin – Hans](publish/gespreksverslagen/20260207-EV-HB.md)
+	- [2026-02-07 Edwin – Hans](gespreksverslagen/20260207-EV-HB.md)
 
 ## Tijdshorizon
 

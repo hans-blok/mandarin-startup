@@ -3,7 +3,7 @@
 
 **Datum**: 2026-02-13  
 **Auteur**: Strategisch Analist  
-**Input**: [strategische intenties](../publish/onze strategie/strategische-intenties.md)
+**Input**: [strategische intenties](../onze strategie/strategische-intenties.md)
 
 ---
 
