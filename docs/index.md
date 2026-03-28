@@ -19,9 +19,16 @@ Deze site bundelt alle strategische documentatie voor Product Mandarin. De hoofd
 	- [Strategische Spanningsvelden](publish/onze strategie/strategische-spanningsvelden.md)
 	- [De drie vragen in de bestuurskamer](publish/onze strategie/de-drie-vragen-in-de-bestuurskamer.md)
 
+- **Leveranciers en selectie** – vastgelegde behoeften voor vergelijking van aanbieders:
+	- [Behoefteprofiel TLX Hosting](leveranciers/behoefteprofiel-tlx-hosting.md)
+
+- **Concepten** – begrippen en fundamenten voor marktvorming en agentic AI:
+	- [Concepten & Agentic AI](concepten%20marktvorming%20en%20agentic%20ai/concepten-marktvorming.md)
+
 - **Investerings-pitches** – hoe Mandarin als investering wordt gepositioneerd:
 	- [Uitgebreide Pitch](publish/pitches/investerings-pitch-mandarin.md)
 	- [30-seconden Pitch](publish/pitches/30-seconden-pitch-mandarin.md)
+	- [Y Combinator Pitch](publish/pitches/pitch-y-combinator.md)
 
 - **Mijlpalen** – de roadmap en belangrijkste momenten op weg naar productvolwassenheid:
 	- [Roadmap 2026–2027](publish/mijlpalen/mijlpalen.md)
@@ -29,9 +36,11 @@ Deze site bundelt alle strategische documentatie voor Product Mandarin. De hoofd
 - **Bronnen** – onderliggende artikelen en referentiemateriaal:
 	- [The Agentic AI Advantage (artikel)](publish/bronnen/The%20Agentic%20AI%20advantage.md)
 	- [The Agentic AI Advantage (PDF)](publish/bronnen/The%20Agentic%20AI%20Advantage.pdf)
+	- [Dataiku als Spanningsveld](publish/bronnen/Dataiku.md)
 
 - **Gespreksverslagen** – ruwe input uit strategische gesprekken:
 	- [2026-02-07 Edwin – Hans](gespreksverslagen/20260207-EV-HB.md)
+	- [2026-03-27 Niek – Hans](gespreksverslagen/20260327-NG-HB.md)
 
 ## Tijdshorizon
 

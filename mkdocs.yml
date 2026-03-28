@@ -120,34 +120,32 @@ markdown_extensions:
 nav:
   - Home: index.md
 
-  - Strategie:
-    - Overzicht: publish/onze strategie/strategische-intenties.md
-    - Strategische Intenties: publish/onze strategie/strategische-intenties.md
-    - Hypothese (Click-formaat): publish/onze strategie/click-hypohese.md
-    - Hypothese Probleemkader: publish/onze strategie/hypothese-probleemkader-mandarin.md
-    - Strategische Spanningsvelden: publish/onze strategie/strategische-spanningsvelden.md
-    - De Drie Vragen in de Bestuurskamer: publish/onze strategie/de-drie-vragen-in-de-bestuurskamer.md
-
-  - Concepten — Marktvorming:
-    - Concepten & Agentic AI: "concepten marktvorming en agentic ai/concepten-marktvorming.md"
-
-  - Investerings-Pitches:
-    - Uitgebreide Pitch: publish/pitches/investerings-pitch-mandarin.md
-    - 30-Seconden Pitch: publish/pitches/30-seconden-pitch-mandarin.md
-    - Y Combinator Pitch: publish/pitches/pitch-y-combinator.md
-    - Pitch Visual (PDF): publish/pitches/pitch_visual.pdf
-
-  - Mijlpalen:
-    - Roadmap 2026-2027: publish/mijlpalen/mijlpalen.md
-
-  - Bronnen:
-    - The Agentic AI Advantage (Artikel): publish/bronnen/The Agentic AI advantage.md
-    - The Agentic AI Advantage (PDF): publish/bronnen/The Agentic AI Advantage.pdf
-    - Dataiku als Spanningsveld: publish/bronnen/Dataiku.md
+  - "Concepten marktvorming en agentic ai":
+    - "Concepten — Marktvorming voor Product Mandarin": "concepten marktvorming en agentic ai/concepten-marktvorming.md"
 
   - Gespreksverslagen:
-    - 2026-02-07 Edwin - Hans: gespreksverslagen/20260207-EV-HB.md
-    - 2026-03-27 Niek - Hans: gespreksverslagen/20260327-NG-HB.md
+    - "Input van Edwin — Mandarin Strategie & Uitvoering": gespreksverslagen/20260207-EV-HB.md
+    - "Verslag — Verkenning thesis Niek en samenwerking met Michael": gespreksverslagen/20260327-NG-HB.md
+
+  - Leveranciers:
+    - "Behoefteprofiel: TLX hosting en technisch applicatiebeheer": leveranciers/behoefteprofiel-tlx-hosting.md
+
+  - Publish:
+    - Bronnen:
+      - "Concurrentie-analyse — Dataiku als Spanningsveld": publish/bronnen/Dataiku.md
+      - "The Agentic AI Advantage – summary": "publish/bronnen/The Agentic AI advantage.md"
+    - Mijlpalen:
+      - "Mijlpalen Roadmap 2026-2027": publish/mijlpalen/mijlpalen.md
+    - "Onze strategie":
+      - "Click-formaat samenvatting": "publish/onze strategie/click-hypohese.md"
+      - "Toelichting op de kernvragen rond agentic AI": "publish/onze strategie/de-drie-vragen-in-de-bestuurskamer.md"
+      - "Hypothese — Probleemkader Product Mandarin": "publish/onze strategie/hypothese-probleemkader-mandarin.md"
+      - "Strategische Intenties — Mandarin": "publish/onze strategie/strategische-intenties.md"
+      - "Strategische Spanningsvelden — Product Mandarin": "publish/onze strategie/strategische-spanningsvelden.md"
+    - Pitches:
+      - 30-seconden-pitch-mandarin: publish/pitches/30-seconden-pitch-mandarin.md
+      - "Investerings-Pitch: Product Mandarin": publish/pitches/investerings-pitch-mandarin.md
+      - "Y Combinator Pitch Deck: Mandarin (Nederlandse versie)": publish/pitches/pitch-y-combinator.md
 
 # ------------------------------------------------------------
 # 8. Extra Configuratie
